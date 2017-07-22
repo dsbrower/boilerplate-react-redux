@@ -1,2 +1,2 @@
-# dbro-website
-My personal website
+# boilerplate-react-redux
+Boilerplate code for react/redux
