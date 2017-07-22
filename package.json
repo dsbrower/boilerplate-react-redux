@@ -1,7 +1,7 @@
 {
-  "name": "dbro-website",
+  "name": "boilerplate-react-redux",
   "version": "0.0.0",
-  "description": "My personal website",
+  "description": "Boilerplate code for react/redux",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
